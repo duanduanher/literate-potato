@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fafa3d111c7c0647ae245a5390d705d, type: 3}
+  m_Name: 0-1
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 0
+    image: {fileID: 0}
+    speakerName: "\u6211"
+    text: "\u9633\u5149\u6D12\u5165\u5367\u5BA4\uFF0C\u6211\u7F13\u7F13\u7741\u5F00\u773C..."
+    isNpc: 0
+    backgroundSprite: {fileID: 21300000, guid: 60c2a37045aed15448baf99cafbfbf86, type: 3}
+  - ID: 1
+    image: {fileID: 0}
+    speakerName: "\u6211"
+    text: "\u73B0\u5728\u8FD9\u662F...\u51E0\u70B9\u4E86\uFF1F"
+    isNpc: 0
+    backgroundSprite: {fileID: 21300000, guid: 60c2a37045aed15448baf99cafbfbf86, type: 3}
+  - ID: 2
+    image: {fileID: 0}
+    speakerName: "\u6211"
+    text: "\u6211\u53BB\uFF0C\u4E09\u70B9\u4E86\uFF0C\u8BE5\u53BB\u63A5\u59B9\u59B9\u653E\u5B66\u4E86\uFF01"
+    isNpc: 0
+    backgroundSprite: {fileID: 21300000, guid: 60c2a37045aed15448baf99cafbfbf86, type: 3}
+  - ID: 3
+    image: {fileID: 0}
+    speakerName: "\u6211"
+    text: "*\u731B\u5730\u722C\u8D77\u6765*"
+    isNpc: 0
+    backgroundSprite: {fileID: 21300000, guid: 60c2a37045aed15448baf99cafbfbf86, type: 3}
+  - ID: 4
+    image: {fileID: 0}
+    speakerName: "\u6211"
+    text: "\u59B9\u59B9\u5728\u51E0\u73ED\u6765\u7740..."
+    isNpc: 0
+    backgroundSprite: {fileID: 21300000, guid: 60c2a37045aed15448baf99cafbfbf86, type: 3}
+  - ID: 5
+    image: {fileID: 0}
+    speakerName: "\u6211"
+    text: "\u597D\u50CF\u662F\u4E94\u5E74\u4E09\u73ED\uFF0C\u5509\u60F3\u4E0D\u8D77\u6765\u4E86\uFF0C\u603B\u4F1A\u627E\u5230\u5427..."
+    isNpc: 0
+    backgroundSprite: {fileID: 21300000, guid: 60c2a37045aed15448baf99cafbfbf86, type: 3}
+  bgmName: c2
